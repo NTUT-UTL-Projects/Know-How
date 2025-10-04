@@ -49,26 +49,22 @@ It aims to preserve all the knowledges and make it inheritable.
 3. **Record only knowledge that is hard to memorize**
     - Supports **Conciseness**
         
-4. **Add timestamps to each file**
-    - Ensures **Traceability**
-    - Related background can still be found in daily notes.
-        
-5. **Revise or delete when necessary**
+4. **Revise or delete when necessary**
     - Supports **Reliability**
         
-6. **Rewrite external content before saving**
+5. **Rewrite external content before saving**
     - Guarantees **Reliability**
     - Ensures content remains accessible and understandable in the future.
         
-7. **Keep entries independent and self-contained**
+6. **Keep entries independent and self-contained**
     - Avoid cross-dependencies that make content harder to maintain.
     - Each file should be understandable without requiring other files.
         
-8. **Use consistent formatting and structure**
+7. **Use consistent formatting and structure**
     - Improves readability and makes knowledge easier to scan.
     - Headings, bullet points, and tags should follow a uniform style.
         
-9. **Tag content with categories or keywords**
+8. **Tag content with categories or keywords**
     - Helps with **Easy Access** and future searchability.
     - Tags should be simple, reusable, and intuitive.
 
