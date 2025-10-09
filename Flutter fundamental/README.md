@@ -1,5 +1,79 @@
 # Flutter fundamental
 
+## Common Commands
+
+```bash
+adb kill-server
+```
+
+```bash
+adb start-server
+```
+
+```bash
+adb devices -l
+```
+
+---
+
+```bash
+cd android/
+./gradlew tasks --all | grep externalNativeBuild
+```
+
+---
+
+Repair pub cache (usually not needed)
+```bash
+flutter pub cache repair
+```
+
+Delete the cache directly (it will take a while)
+```bash
+rm -rf ~/.pub-cache
+```
+
+```bash
+flutter clean
+```
+
+```bash
+flutter pub get
+```
+
+---
+
+
+```bash
+keytool -list -v -keystore <KEYSTORE_PATH>
+```
+
+---
+
+```
+"$FLUTTER_HOME/packages/flutter_tools/gradle/src/main/kotlin/FlutterExtension.kt"
+```
+
+---
+
+```bash
+flutter gen-l10n
+```
+
+---
+
+```bash
+dart run build_runner build
+```
+
+```bash
+dart run build_runner build --delete-conflicting-outputs
+```
+
+```bash
+dart run build_runner clean
+```
+
 ## Basis
 
 [本章目录 | 《Flutter实战·第二版》](https://book.flutterchina.club/chapter1/)
