@@ -76,7 +76,7 @@ dart run build_runner clean
 
 ---
 
-```dart
+```bash
 dart format <PATH>
 ```
 
