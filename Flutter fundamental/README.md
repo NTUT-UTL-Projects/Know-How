@@ -74,6 +74,12 @@ dart run build_runner build --delete-conflicting-outputs
 dart run build_runner clean
 ```
 
+---
+
+```dart
+dart format <PATH>
+```
+
 ## Basis
 
 [本章目录 | 《Flutter实战·第二版》](https://book.flutterchina.club/chapter1/)
