@@ -132,6 +132,10 @@ State management
 - [flutter\_redux | Flutter package](https://pub.dev/packages/flutter_redux)
 - [mobx | Dart package](https://pub.dev/packages/mobx)
 
+## Bluetooth
+
+[Bluetooth permissions  |  Connectivity  |  Android Developers](https://developer.android.com/develop/connectivity/bluetooth/bt-permissions)
+
 ## Awesome Examples
 
 [GitHub - guilherme-v/flutter-clean-architecture-example: A flutter's implementation of a "clean architecture" comparing BLoC, Cubit, GetIt, MobX, Provider, and Riverpod. It includes tests to all libraries and additional features like Material 3 theming, Widget and Unit Tests, Infinite scrolling, Remote API calls, Caching and etc..](https://github.com/guilherme-v/flutter-clean-architecture-example)
