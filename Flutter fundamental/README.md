@@ -99,6 +99,8 @@ dart doc <PATH>
 
 [本章目录 | 《Flutter实战·第二版》](https://book.flutterchina.club/chapter1/)
 
+[Effective Dart](https://dart.dev/effective-dart)
+
 ## Utils
 
 [equatable | Dart package](https://pub.dev/packages/equatable)
