@@ -2,6 +2,8 @@
 
 ## Common Commands
 
+rescan real device
+
 ```bash
 adb kill-server
 ```
@@ -33,6 +35,7 @@ Delete the cache directly (it will take a while)
 rm -rf ~/.pub-cache
 ```
 
+If you get some unknown error, it's useful to run this to clear some old stuff.
 ```bash
 flutter clean
 ```
@@ -56,12 +59,14 @@ keytool -list -v -keystore <KEYSTORE_PATH>
 
 ---
 
+rebuild multi-language config files.
 ```bash
 flutter gen-l10n
 ```
 
 ---
 
+rebuild some dart gererated files.
 ```bash
 dart run build_runner build
 ```
@@ -76,9 +81,19 @@ dart run build_runner clean
 
 ---
 
+Make your Dart code files easier for people to read.
 ```bash
 dart format <PATH>
 ```
+[dart format](https://dart.dev/tools/dart-format)
+
+---
+
+Auto generate documentation files.
+```bash
+dart doc <PATH>
+```
+[dart doc](https://dart.dev/tools/dart-doc)
 
 ## Basis
 
