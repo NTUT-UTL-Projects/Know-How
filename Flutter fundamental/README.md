@@ -136,6 +136,10 @@ State management
 
 [Bluetooth permissions  |  Connectivity  |  Android Developers](https://developer.android.com/develop/connectivity/bluetooth/bt-permissions)
 
+## Container
+
+[GitHub - XIAN-SHENG-576692/Flutter-Development-Environment-with-VS-Code-using-mingc-android-build-box](https://github.com/XIAN-SHENG-576692/Flutter-Development-Environment-with-VS-Code-using-mingc-android-build-box)
+
 ## Awesome Examples
 
 [GitHub - guilherme-v/flutter-clean-architecture-example: A flutter's implementation of a "clean architecture" comparing BLoC, Cubit, GetIt, MobX, Provider, and Riverpod. It includes tests to all libraries and additional features like Material 3 theming, Widget and Unit Tests, Infinite scrolling, Remote API calls, Caching and etc..](https://github.com/guilherme-v/flutter-clean-architecture-example)
