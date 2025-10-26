@@ -50,6 +50,7 @@ nRF Connect for VS Code 基本操作
 TODO
 - 解決缺陷
 - 嘗試更好的 name convention
-- 完成命令
-- 完成 App
+- 完成命令控制模塊
+- 完成 Mobile App
 - 完成現場測試
+- 完成 OTA 燒錄功能
